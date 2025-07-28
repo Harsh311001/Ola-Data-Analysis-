@@ -1,7 +1,7 @@
 # 📊 Ola Data Analyst Project  
 ### 🚖 Ride Analysis for Bengaluru City  
 
-Screenshot-
+Screenshot-https://github.com/Harsh311001/Ola-Data-Analysis-/blob/main/Snapshot%20of%20Ola%20Dashboard.png?raw=true
 
 Welcome to my Ola Data Analyst project! This repository contains the complete analysis of **50,000+ Ola ride records** for Bengaluru city over a 1-month period. The project explores booking trends, cancellation patterns, ride demand fluctuations and more using **SQL** and **Power BI** with the goal of uncovering actionable insights.  
 
